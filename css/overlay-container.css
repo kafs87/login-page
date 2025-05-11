@@ -1,0 +1,10 @@
+.overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    transform: translateX(100%);
+    color: var(--text-color-light);
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.form-title {
+    font-size: 3rem;
+    font-weight: 400;
+    color: var(--text-color-dark);
+}
+
+.form-title-light {
+    color: var(--text-color-light);
+    margin-top: 8.4rem;
+}
