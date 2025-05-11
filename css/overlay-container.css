@@ -7,4 +7,11 @@
     transform: translateX(100%);
     color: var(--text-color-light);
     text-align: center;
+    transition: 1s;
+    z-index: 100;
+}
+
+.login-container.move .overlay-container {
+    z-index: +1;
+    transform: translateX(0%);
 }

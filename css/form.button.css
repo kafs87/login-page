@@ -20,7 +20,7 @@
 .form-button-light {
     border: 2px solid var(--secundary-color);
     color: var(--secundary-color);
-    margin-bottom: 8.75rem;
+    margin-bottom: 8rem;
 }
 
     .form-button-light:hover {
